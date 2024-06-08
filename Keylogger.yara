@@ -9,7 +9,6 @@ private rule Indian_APT_PE_and_String{
 		Author = "Diyar Saadi"
 		Date = "06/07/2024"
 		Malware_Nationality = "India"
-		Malware_Against_Nation = "Pakistan"
 		Malware_MD5_Hash = "8C095479D9BEBA9ED56BB8D95861686D"
 
 	strings:
@@ -41,7 +40,6 @@ private rule Indian_APT_Network{
 		Author = "Diyar Saadi"
 		Date = "06/07/2024"
 		Malware_Nationality = "India"
-		Malware_Against_Nation = "Pakistan"
 		Malware_MD5_Hash = "8C095479D9BEBA9ED56BB8D95861686D"
 
 	strings:
@@ -65,7 +63,6 @@ private rule Indian_APT_WinAPI{
 		Author = "Diyar Saadi"
 		Date = "06/07/2024"
 		Malware_Nationality = "India"
-		Malware_Against_Nation = "Pakistan"
 		Malware_MD5_Hash = "8C095479D9BEBA9ED56BB8D95861686D"
 
 	condition:
@@ -79,7 +76,6 @@ private rule Indian_APT_Entropy{
 		Author = "Diyar Saadi"
 		Date = "06/07/2024"
 		Malware_Nationality = "India"
-		Malware_Against_Nation = "Pakistan"
 		Malware_MD5_Hash = "8C095479D9BEBA9ED56BB8D95861686D"
 
 	condition:
